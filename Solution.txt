@@ -1,0 +1,2 @@
+The total distance travelled is: 2.995687895999458
+The shortest path from Earth to b3-r7-r4nd7 is: 18 810 595 132 519 71 432 246 
